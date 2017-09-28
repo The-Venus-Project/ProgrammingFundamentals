@@ -1,0 +1,7 @@
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task3 MilestoKilometers\bin\Debug\Task3 MilestoKilometers.exe.config
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task3 MilestoKilometers\bin\Debug\Task3 MilestoKilometers.exe
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task3 MilestoKilometers\bin\Debug\Task3 MilestoKilometers.pdb
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task3 MilestoKilometers\obj\Debug\Task3 MilestoKilometers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task3 MilestoKilometers\obj\Debug\Task3 MilestoKilometers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task3 MilestoKilometers\obj\Debug\Task3 MilestoKilometers.exe
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task3 MilestoKilometers\obj\Debug\Task3 MilestoKilometers.pdb

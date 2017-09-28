@@ -1,0 +1,7 @@
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task3 EmployeeData\bin\Debug\Task3 EmployeeData.exe.config
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task3 EmployeeData\bin\Debug\Task3 EmployeeData.exe
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task3 EmployeeData\bin\Debug\Task3 EmployeeData.pdb
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task3 EmployeeData\obj\Debug\Task3 EmployeeData.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task3 EmployeeData\obj\Debug\Task3 EmployeeData.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task3 EmployeeData\obj\Debug\Task3 EmployeeData.exe
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task3 EmployeeData\obj\Debug\Task3 EmployeeData.pdb

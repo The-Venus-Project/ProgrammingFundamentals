@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task2 AddTwoNumbers\bin\Debug\Task2 AddTwoNumbers.exe.config
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task2 AddTwoNumbers\bin\Debug\Task2 AddTwoNumbers.exe
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task2 AddTwoNumbers\bin\Debug\Task2 AddTwoNumbers.pdb
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task2 AddTwoNumbers\obj\Debug\Task2 AddTwoNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task2 AddTwoNumbers\obj\Debug\Task2 AddTwoNumbers.exe
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task2 AddTwoNumbers\obj\Debug\Task2 AddTwoNumbers.pdb
