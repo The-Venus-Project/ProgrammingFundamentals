@@ -1,0 +1,3 @@
+name = Aleksandur
+size = 192
+email = aguzelov@outlook.com
