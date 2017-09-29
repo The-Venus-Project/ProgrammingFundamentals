@@ -6,3 +6,6 @@ name = Svetoslav
 size = 171
 email = svetlioo.m@gmail.com
 
+name = Velizar
+size = 194
+email = velizar.velikov@gmail.com
