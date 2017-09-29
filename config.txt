@@ -1,3 +1,8 @@
 name = Aleksandur
 size = 192
 email = aguzelov@outlook.com
+
+name = Svetoslav	
+size = 171
+email = svetlioo.m@gmail.com
+
