@@ -1,7 +1,0 @@
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task5 CharacterStats\obj\Debug\Task5 CharacterStats.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task5 CharacterStats\obj\Debug\Task5 CharacterStats.csprojResolveAssemblyReference.cache
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task5 CharacterStats\bin\Debug\Task5 CharacterStats.exe.config
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task5 CharacterStats\bin\Debug\Task5 CharacterStats.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task5 CharacterStats\bin\Debug\Task5 CharacterStats.pdb
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task5 CharacterStats\obj\Debug\Task5 CharacterStats.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task5 CharacterStats\obj\Debug\Task5 CharacterStats.pdb

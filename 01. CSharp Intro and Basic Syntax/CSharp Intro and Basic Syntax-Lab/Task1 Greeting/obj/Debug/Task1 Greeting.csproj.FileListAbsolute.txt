@@ -1,7 +1,0 @@
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task1 Greeting\bin\Debug\Task1 Greeting.exe.config
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task1 Greeting\bin\Debug\Task1 Greeting.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task1 Greeting\bin\Debug\Task1 Greeting.pdb
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task1 Greeting\obj\Debug\Task1 Greeting.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task1 Greeting\obj\Debug\Task1 Greeting.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task1 Greeting\obj\Debug\Task1 Greeting.pdb
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\CSharp Intro and Basic Syntax\Task1 Greeting\obj\Debug\Task1 Greeting.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task2 RectangleArea\bin\Debug\Task2 RectangleArea.exe.config
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task2 RectangleArea\bin\Debug\Task2 RectangleArea.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task2 RectangleArea\bin\Debug\Task2 RectangleArea.pdb
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task2 RectangleArea\obj\Debug\Task2 RectangleArea.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task2 RectangleArea\obj\Debug\Task2 RectangleArea.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task2 RectangleArea\obj\Debug\Task2 RectangleArea.pdb

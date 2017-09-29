@@ -1,7 +1,0 @@
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task4 BeverageLabels\bin\Debug\Task4 BeverageLabels.exe.config
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task4 BeverageLabels\bin\Debug\Task4 BeverageLabels.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task4 BeverageLabels\bin\Debug\Task4 BeverageLabels.pdb
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task4 BeverageLabels\obj\Debug\Task4 BeverageLabels.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task4 BeverageLabels\obj\Debug\Task4 BeverageLabels.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task4 BeverageLabels\obj\Debug\Task4 BeverageLabels.pdb
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task4 BeverageLabels\obj\Debug\Task4 BeverageLabels.csprojResolveAssemblyReference.cache

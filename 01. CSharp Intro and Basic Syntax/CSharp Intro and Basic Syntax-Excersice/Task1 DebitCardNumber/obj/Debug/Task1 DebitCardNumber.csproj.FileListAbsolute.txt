@@ -1,7 +1,0 @@
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task1 DebitCardNumber\bin\Debug\Task1 DebitCardNumber.exe.config
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task1 DebitCardNumber\bin\Debug\Task1 DebitCardNumber.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task1 DebitCardNumber\bin\Debug\Task1 DebitCardNumber.pdb
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task1 DebitCardNumber\obj\Debug\Task1 DebitCardNumber.csprojResolveAssemblyReference.cache
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task1 DebitCardNumber\obj\Debug\Task1 DebitCardNumber.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task1 DebitCardNumber\obj\Debug\Task1 DebitCardNumber.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Basic Syntax\Task1 DebitCardNumber\obj\Debug\Task1 DebitCardNumber.pdb
